@@ -1,1 +1,1 @@
-# Hangman.cc
+# The ugliest thing I've wrote
