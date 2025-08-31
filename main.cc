@@ -1,9 +1,6 @@
 #include <iostream>
-#include <vector>
-#include <string>
 #include <fstream>
 #include <random>
-#include <algorithm>
 
 struct wordGenerator
 {
